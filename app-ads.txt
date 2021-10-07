@@ -1,4 +1,5 @@
 google.com, pub-6803275496611225, DIRECT, f08c47fec0942fa0
+facebook.com, 171154644340585, DIRECT, c3e20eee3f780d68
 facebook.com, 171154644340585, RESELLER, c3e20eee3f780d68
 mopub.com, c03ab73b914c4cc782c91bc52edbb9ec, DIRECT, 74b46c0ea83967ca
 unity.com, 1879882, DIRECT, 96cabb5fbdde37a7
