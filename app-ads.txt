@@ -93,3 +93,16 @@ stroeer.com, 17938, DIRECT
 telaria.com, rwd19-1879882, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1879882, RESELLER, 1a4e959a1b50034a
 google.com, pub-4764168327717705, RESELLER
+yandex.com, 40427798, RESELLER
+mintegral.com, 10038, RESELLER
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+bidmachine.io, 114, RESELLER
+bidmachine.io, 67, RESELLER
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+exchange.admazing.co, AM3, RESELLER
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+yeahmobi.com, 5135195, RESELLER
+liftoff.io, 7f6945815e6, RESELLER
+meitu.com, 282, RESELLER
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
