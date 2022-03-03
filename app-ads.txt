@@ -248,4 +248,4 @@ onetag.com, 5d1628750185ace, RESELLER
 
 loopme.com, 11278, RESELLER, 6c8d5f95897a5a3b
 smartadserver.com, 4194, DIRECT
-
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
