@@ -311,3 +311,5 @@ verve.com, 14619, RESELLER, 0c8f5958fc2d6270
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 
 media.net, 8CUKNNDT5, DIRECT
+
+adingo.jp, 25858, RESELLER
