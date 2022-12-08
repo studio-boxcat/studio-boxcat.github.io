@@ -249,6 +249,9 @@ onetag.com, 5d1628750185ace, RESELLER
 loopme.com, 11278, RESELLER, 6c8d5f95897a5a3b
 smartadserver.com, 4194, DIRECT
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+
+
+# Tayjoy
 tapjoy.com, 73be8293f667486da7dc84f3357a3fed, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 webeyemob.com, 70096, RESELLER
@@ -270,7 +273,7 @@ synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
-
+opera.com, pub6584435113344, DIRECT, 55a0c5fd61378de3
 
 
 smaato.com, 1100051109, RESELLER, 07bcf65f187117b4
