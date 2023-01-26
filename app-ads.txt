@@ -694,7 +694,7 @@ indexexchange.com, 201652, DIRECT, 50b1c356f2c5c8fc
 
 
 # DT Exchange
-fyber.com, 220605, DIRECT 
+fyber.com, 220605, DIRECT
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
 adcolony.com, 3dcf9f51638afe2c, RESELLER, 1ad675c9de6b5176
