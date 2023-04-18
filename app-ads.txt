@@ -1086,3 +1086,7 @@ contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
 rubiconproject.com, 24174, RESELLER, 0bfd66d529a55807
 appnexus.com, 12964, RESELLER
 indexexchange.com, 195812, RESELLER, 50b1c356f2c5c8fc
+
+# Equativ (Smart AdServer)
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
