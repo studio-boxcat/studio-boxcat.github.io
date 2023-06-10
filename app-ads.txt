@@ -685,12 +685,19 @@ appnexus.com, 11450, RESELLER
 
 pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 
-applovin.com, 8e718766001adb44befc5aeef646f225, DIRECT
-
 adcolony.com, e6aa1d260d752882a3ee02e021699563, DIRECT, 1ad675c9de6b5176
 
 indexexchange.com, 201652, DIRECT, 50b1c356f2c5c8fc
 
+
+# applovin (https://dash.applovin.com/o/account?r=2#app_ads_txt)
+applovin.com, 8e718766001adb44befc5aeef646f225, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
 
 
 # DT Exchange
