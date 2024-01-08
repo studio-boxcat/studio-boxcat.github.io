@@ -2,6 +2,10 @@
 google.com, pub-6803275496611225, DIRECT, f08c47fec0942fa0
 
 
+# Meta Audience Network (https://developers.facebook.com/docs/audience-network/optimization/best-practices/authorized-sellers-app-ads/)
+facebook.com, 171154644340585, RESELLER, c3e20eee3f780d68
+
+
 # Unity Ads (https://cloud.unity.com/home/organizations/291021/monetization/organization-settings)
 unity.com, 1879882, DIRECT, 96cabb5fbdde37a7
 admanmedia.com, 613, RESELLER
