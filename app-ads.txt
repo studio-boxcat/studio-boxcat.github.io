@@ -842,7 +842,7 @@ axonix.com,56716,RESELLER,bc385f2b4a87b721
 
 
 
-# vungle
+# vungle (liftoff) (https://github.com/studio-boxcat/studio-boxcat.github.io/edit/main/app-ads.txt)
 vungle.com, 633fc6630ebfc2001b3c49a6, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
