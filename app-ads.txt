@@ -260,7 +260,7 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 
 
-# DT Exchange
+# DT Exchange (https://developer.digitalturbine.com/hc/en-us/articles/360009975198-app-ads-txt)
 fyber.com,220605,DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
 adcolony.com,3dcf9f51638afe2c,RESELLER,1ad675c9de6b5176
